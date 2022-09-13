@@ -1,4 +1,4 @@
-# Scientific-Calculator
+# Scientific-Calculator-Chrome-Extension
 This scientific calculator is made to be used as a chrome extension & can be accessed anytime.
 
 # INSTALLATION 
